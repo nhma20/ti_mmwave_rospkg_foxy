@@ -27,7 +27,7 @@ source install/setup.sh
 ros2 launch ti_mmwave_rospkg 6843AOP_custom2.py
 ```
 
-
+<img src="https://github.com/user-attachments/assets/16f08e17-f457-4f56-81ee-113271efb708" width="500">
 
 
 ### Documentation
